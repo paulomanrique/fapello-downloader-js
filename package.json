@@ -1,0 +1,16 @@
+{
+  "name": "fapello-downloader-js",
+  "version": "1.0.0",
+  "description": "Node.js Fapello Downloader",
+  "author": "Paulo Manrique",
+  "license": "WTFPL",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/paulomanrique/fapello-downloader-js"
+  },
+  "main": "index.js",
+  "dependencies": {
+    "axios": "^0.21.4",
+    "cheerio": "^1.0.0-rc.11"
+  }
+}
